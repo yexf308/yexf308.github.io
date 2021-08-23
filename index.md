@@ -15,6 +15,9 @@ Previously, I was a Postdoctoral Fellow at Johns Hopkins University. I received 
 ### Publications and Preprints
 
 - Nonparametric nonlinear model reduction for slow-fast SDEs near manifolds, 
- Felix X.-F. Ye, Sichen Yang and Mauro Maggioni
-  Arxiv preprint arXiv:2104.02120
+ Felix X.-F. Ye, Sichen Yang and Mauro Maggioni, 
+  _Arxiv preprint arXiv:2104.02120_.
+
+- ISALT: Inference-based schemes adaptive to large time-stepping for locally Lipschitz ergodic systems, Xingjie Li, Fei Lu and Felix X.-F. Ye,
+_Arxiv preprint arXiv:2102.12669_, accepted by _Discrete & Continuous Dynamical Systems - S_.
 
