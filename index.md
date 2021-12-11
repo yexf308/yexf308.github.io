@@ -58,9 +58,10 @@ _Theoretical population biology_, 21, 155-165, 2013.
 
 
 ### Teaching
-In Fall 2021, I am teaching Machine Learning (MAT592). Here is the [course git](https://github.com/yexf308/MAT592).
+In Spring 2022, I am teaching Machine Learning (MAT592). Here is the [course git](https://github.com/yexf308/MAT592).
+I am also teaching Advanced Topics in Machine Learning (MAT 810). Here is the [course git](https://github.com/yexf308/AdvancedMachineLearning). 
+Both courses are supported by a [Google Cloud Education Grant](https://cloud.google.com/edu/). 
 
-In Spring 2022, I will teach Advanced Topics in Machine Learning (MAT 810). Here is the [course flyer](https://www.dropbox.com/s/ynwjr7sftvxhmo3/Spring2022AMAT810syllabus.pdf?dl=0). 
 
 ### Miscellaneous
 This is an [article](https://amath.washington.edu/news/2018/10/25/it-was-roller-coaster-ride) I wrote after I graduate from University of Washington.
