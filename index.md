@@ -14,11 +14,13 @@ Previously, I was a Postdoctoral Fellow at Johns Hopkins University. I received 
 
 ### Publications and Preprints
 
+- **NySALT: Nyström-type inference-based schemes adaptive to large time-stepping**, Xingjie Li, Fei Lu, Molei Tao and Felix X.-F. Ye, _arXiv:	arXiv:2207.06012_.
+
 - **Nonparametric nonlinear model reduction for slow-fast SDEs near manifolds**, 
  Felix X.-F. Ye, Sichen Yang and Mauro Maggioni, Submitted,
   _Arxiv preprint arXiv:2104.02120_.
 
-- **ISALT: Inference-based schemes adaptive to large time-stepping for locally Lipschitz ergodic systems**, Xingjie Li, Fei Lu and Felix X.-F. Ye, accepted by _Discrete & Continuous Dynamical Systems - S_, _arXiv:2102.12669_.
+- **ISALT: Inference-based schemes adaptive to large time-stepping for locally Lipschitz ergodic systems**, Xingjie Li, Fei Lu and Felix X.-F. Ye,  _Discrete & Continuous Dynamical Systems - S_, 15(4):747-771, 2022, _arXiv:2102.12669_.
 
 - **Quantifying  information  accumulation encoded in the dynamics  of biochemical signaling**, 
 Ying Tang, Adewunmi Adelaja,  Felix X.-F. Ye, Eric J. Deeds, Roy Wollman and Alexander Hoffman, 
