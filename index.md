@@ -14,7 +14,7 @@ Previously, I was a Postdoctoral Fellow at Johns Hopkins University. I received 
 
 ### Publications and Preprints
 
-- **NySALT: Nyström-type inference-based schemes adaptive to large time-stepping**, Xingjie Li, Fei Lu, Molei Tao and Felix X.-F. Ye, _arXiv:	arXiv:2207.06012_.
+- **NySALT: Nyström-type inference-based schemes adaptive to large time-stepping**, Xingjie Li, Fei Lu, Molei Tao and Felix X.-F. Ye, _ArXiv preprint 	arXiv:2207.06012_.
 
 - **Nonparametric nonlinear model reduction for slow-fast SDEs near manifolds**, 
  Felix X.-F. Ye, Sichen Yang and Mauro Maggioni, Submitted,
