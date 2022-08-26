@@ -1,7 +1,7 @@
 
 ## Assistant Professor
 
-Earth Science and Mathematics 123B 
+Catskill 383
 
 Department of Mathematics and Statistics, SUNY Albany
 
@@ -63,6 +63,8 @@ _Theoretical population biology_, 21, 155-165, 2013.
 In Fall 2022, I am teaching Machine Learning (AMAT592). Here is the [course git](https://github.com/yexf308/MAT592).
 
 I am also teaching Applied Statistics for Data Science (AMAT 565). Here is the [course git](https://github.com/yexf308/AppliedStatistics). 
+
+Both courses received Google Cloud Education Credits. 
 
 
 
