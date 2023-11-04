@@ -60,11 +60,8 @@ _Theoretical population biology_, 21, 155-165, 2013.
 
 
 ### Teaching
-In Fall 2022, I am teaching Machine Learning (AMAT592). Here is the [course git](https://github.com/yexf308/MAT592).
+In Fall 2023, I am teaching Practical Machine Learning (AMAT593) and Applied Stochastic Process (AMAT 560).
 
-I am also teaching Applied Statistics for Data Science (AMAT 565). Here is the [course git](https://github.com/yexf308/AppliedStatistics). 
-
-Both courses received Google Cloud Education Credits. 
 
 
 
