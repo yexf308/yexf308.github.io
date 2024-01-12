@@ -17,7 +17,7 @@ Previously, I was a Postdoctoral Fellow at Johns Hopkins University. I received 
 - **NySALT: Nyström-type inference-based schemes adaptive to large time-stepping**, Xingjie Li, Fei Lu, Molei Tao and Felix X.-F. Ye, _Journal of Computational Physics_, 477, 111952. 	_arXiv:2207.06012_.
 
 - **Nonparametric nonlinear model reduction for slow-fast SDEs near manifolds**, 
- Felix X.-F. Ye, Sichen Yang and Mauro Maggioni, Accepted by _Journal of Nonlinear Science_,
+ Felix X.-F. Ye, Sichen Yang and Mauro Maggioni, _J Nonlinear Sci_ 34, 22 (2024).
   _Arxiv preprint arXiv:2104.02120_.
 
 - **ISALT: Inference-based schemes adaptive to large time-stepping for locally Lipschitz ergodic systems**, Xingjie Li, Fei Lu and Felix X.-F. Ye,  _Discrete & Continuous Dynamical Systems - S_, 15(4):747-771, 2022, _arXiv:2102.12669_.
@@ -31,7 +31,7 @@ Wen Huang, Hong Qian, Shirou Wang, Felix X.-F. Ye and Yingfei Yi,
 _SIAM Journal on Applied Dynamical Systems_, 19(1): 233-251, 2020, _arXiv:1910.11988_.
 
 - **Estimate exponential memory decay in Hidden Markov Model and its applications**, 
-Felix X.-F. Ye, Yi-an Ma and Hong Qian, Revision in _Physica D: Nonlinear Phenomena_, _arXiv:1710.06078_.
+Felix X.-F. Ye, Yi-an Ma and Hong Qian, Accepted in _Physica D: Nonlinear Phenomena_, _arXiv:1710.06078_.
 
 - **Stochastic Dynamics II: Finite Random Dynamical Systems, Linear Representation, and Entropy Production**, 
 Felix X.-F. Ye and Hong Qian,
