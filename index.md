@@ -63,7 +63,7 @@ _Theoretical population biology_, 21, 155-165, 2013.
 
 
 ### Teaching
-In Fall 2023, I am teaching Practical Machine Learning (AMAT593) and Applied Stochastic Process (AMAT 560).
+In Fall 2024, I am teaching Machine Learning (AMAT592).
 
 
 
