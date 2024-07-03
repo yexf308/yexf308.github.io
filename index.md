@@ -14,7 +14,12 @@ Previously, I was a Postdoctoral Fellow at Johns Hopkins University. I received 
 
 ### Publications and Preprints
 
+- **Robust First and Second-Order Differentiation for Regularized Optimal Transport**, Xingjie Li, Fei Lu, Molei Tao and Felix X.-F. Ye, _arXiv:2407.02015_.
+
 - **NySALT: Nyström-type inference-based schemes adaptive to large time-stepping**, Xingjie Li, Fei Lu, Molei Tao and Felix X.-F. Ye, _Journal of Computational Physics_, 477, 111952. 	_arXiv:2207.06012_.
+
+- **Estimate exponential memory decay in Hidden Markov Model and its applications**, 
+Felix X.-F. Ye, Yi-an Ma and Hong Qian, _Physica D: Nonlinear Phenomena_, 460, 134053, 2024,  _arXiv:1710.06078_.
 
 - **Nonparametric nonlinear model reduction for slow-fast SDEs near manifolds**, 
  Felix X.-F. Ye, Sichen Yang and Mauro Maggioni, _J Nonlinear Sci_ 34, 22 (2024).
@@ -30,8 +35,6 @@ _Nature Communication_ 12(1), 1-10, 2021.
 Wen Huang, Hong Qian, Shirou Wang, Felix X.-F. Ye and Yingfei Yi,
 _SIAM Journal on Applied Dynamical Systems_, 19(1): 233-251, 2020, _arXiv:1910.11988_.
 
-- **Estimate exponential memory decay in Hidden Markov Model and its applications**, 
-Felix X.-F. Ye, Yi-an Ma and Hong Qian, Accepted in _Physica D: Nonlinear Phenomena_, _arXiv:1710.06078_.
 
 - **Stochastic Dynamics II: Finite Random Dynamical Systems, Linear Representation, and Entropy Production**, 
 Felix X.-F. Ye and Hong Qian,
