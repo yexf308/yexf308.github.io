@@ -1,7 +1,7 @@
 
 ## Assistant Professor
 
-Catskill 383
+Hudson 127
 
 Department of Mathematics and Statistics, SUNY Albany
 
@@ -14,7 +14,9 @@ Previously, I was a Postdoctoral Fellow at Johns Hopkins University. I received 
 
 ### Publications and Preprints
 
-- **Robust First and Second-Order Differentiation for Regularized Optimal Transport**, Xingjie Li, Fei Lu, Molei Tao and Felix X.-F. Ye, _arXiv:2407.02015_.
+- **Diffuse Everything: Multimodal Diffusion Models on Arbitrary State Spaces**, Kevin Rojas, Yuchen Zhu, Sichen Zhu, Felix X-F. Ye, and Molei Tao, ICML 2025.
+  
+- **Robust First and Second-Order Differentiation for Regularized Optimal Transport**, Xingjie Li, Fei Lu, Molei Tao and Felix X.-F. Ye, _SIAM Journal on Scientific Computing_, 47 (3), C630-C654. _arXiv:2407.02015_.
 
 - **NySALT: Nyström-type inference-based schemes adaptive to large time-stepping**, Xingjie Li, Fei Lu, Molei Tao and Felix X.-F. Ye, _Journal of Computational Physics_, 477, 111952. 	_arXiv:2207.06012_.
 
