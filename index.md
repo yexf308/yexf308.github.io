@@ -16,9 +16,9 @@ Previously, I was a Postdoctoral Fellow at Johns Hopkins University. I received 
 
 - **Diffuse Everything: Multimodal Diffusion Models on Arbitrary State Spaces**, Kevin Rojas, Yuchen Zhu, Sichen Zhu, Felix X-F. Ye, and Molei Tao, ICML 2025.
   
-- **Robust First and Second-Order Differentiation for Regularized Optimal Transport**, Xingjie Li, Fei Lu, Molei Tao and Felix X.-F. Ye, _SIAM Journal on Scientific Computing_, 47 (3), C630-C654. _arXiv:2407.02015_.
+- **Robust First and Second-Order Differentiation for Regularized Optimal Transport**, Xingjie Li, Fei Lu, Molei Tao and Felix X.-F. Ye, _SIAM Journal on Scientific Computing_, 47 (3), C630-C654, 2025. _arXiv:2407.02015_.
 
-- **NySALT: Nyström-type inference-based schemes adaptive to large time-stepping**, Xingjie Li, Fei Lu, Molei Tao and Felix X.-F. Ye, _Journal of Computational Physics_, 477, 111952. 	_arXiv:2207.06012_.
+- **NySALT: Nyström-type inference-based schemes adaptive to large time-stepping**, Xingjie Li, Fei Lu, Molei Tao and Felix X.-F. Ye, _Journal of Computational Physics_, 477, 111952, 2024. 	_arXiv:2207.06012_.
 
 - **Estimate exponential memory decay in Hidden Markov Model and its applications**, 
 Felix X.-F. Ye, Yi-an Ma and Hong Qian, _Physica D: Nonlinear Phenomena_, 460, 134053, 2024,  _arXiv:1710.06078_.
@@ -65,7 +65,8 @@ _Theoretical population biology_, 21, 155-165, 2013.
 
 
 ### Teaching
-In Fall 2024, I am teaching Machine Learning (AMAT592).
+In Fall 2025, I am teaching Machine Learning (AMAT592).
+In Spring 2026, I am teaching Practical Machine Learning (AMAT 593).
 
 
 
