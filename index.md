@@ -16,7 +16,7 @@ Previously, I was a Postdoctoral Fellow at Johns Hopkins University. I received 
 
 - **SMART: Shot-Aware Multimodal Video Moment Retrieval with Audio-Enhanced MLLM**, An Yu, Weiheng Lu, Jian Li, Zhenfei Zhang, Yunhang Shen, Felix X.-F. Ye, Ming-Ching Chang, _arxiv:2511.14143_
 
-- **Diffuse Everything: Multimodal Diffusion Models on Arbitrary State Spaces**, Kevin Rojas, Yuchen Zhu, Sichen Zhu, Felix X-F. Ye, and Molei Tao, ICML 2025.
+- **Diffuse Everything: Multimodal Diffusion Models on Arbitrary State Spaces**, Kevin Rojas, Yuchen Zhu, Sichen Zhu, Felix X-F. Ye, and Molei Tao, ICML 2025, _arxiv:2506.07903_
   
 - **Robust First and Second-Order Differentiation for Regularized Optimal Transport**, Xingjie Li, Fei Lu, Molei Tao and Felix X.-F. Ye, _SIAM Journal on Scientific Computing_, 47 (3), C630-C654, 2025. _arXiv:2407.02015_.
 
