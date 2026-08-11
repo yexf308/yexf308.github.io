@@ -271,15 +271,13 @@ footer p {
 .research-list,
 .funding-grid,
 .publication-list,
-.submission-list,
 .software-links {
   border-top: 1px solid var(--soft-line);
 }
 
 .research-list article,
 .funding-card,
-.publication-card,
-.submission-card {
+.publication-card {
   background: none;
   border: 0;
   border-bottom: 1px solid var(--soft-line);
@@ -290,8 +288,7 @@ footer p {
 
 .research-list h3,
 .funding-card h3,
-.publication-card h3,
-.submission-card h3 {
+.publication-card h3 {
   font-size: 18px;
   line-height: 1.35;
   margin-bottom: 12px;
@@ -362,8 +359,7 @@ footer p {
   margin: 20px 0 0;
 }
 
-.publication-list,
-.submission-list {
+.publication-list {
   display: block;
 }
 
@@ -372,13 +368,11 @@ footer p {
 }
 
 .publication-card h3 a,
-.submission-card h3 a,
 .compact-publications a {
   color: var(--ink);
 }
 
 .publication-card h3 a:hover,
-.submission-card h3 a:hover,
 .compact-publications a:hover {
   color: var(--accent-dark);
 }
@@ -396,15 +390,6 @@ footer p {
 
 .venue {
   color: #526178;
-}
-
-.publication-archive {
-  margin-top: 40px;
-}
-
-.publication-archive > h3 {
-  font-size: 19px;
-  margin-bottom: 18px;
 }
 
 .compact-publications {
@@ -434,22 +419,6 @@ footer p {
 
 .compact-publications span:not(.pub-year) {
   color: var(--muted);
-}
-
-.submission-card .status {
-  display: block;
-  margin-bottom: 7px;
-}
-
-.submission-card h3 {
-  font-size: 16px;
-}
-
-.submission-card p {
-  color: var(--muted);
-  font-size: 11px;
-  line-height: 1.55;
-  margin: 0;
 }
 
 .software-links {
@@ -610,8 +579,7 @@ footer p {
   }
 
   .funding-card,
-  .publication-card,
-  .submission-card {
+  .publication-card {
     background: #fff;
     box-shadow: none;
     color: #222;
