@@ -101,7 +101,7 @@ description: Research in scientific computing, machine learning, dynamical syste
         <span>ICML Oral · Top 0.7%</span>
       </div>
       <h3><a href="https://arxiv.org/abs/2602.03067">FlashSinkhorn: IO-Aware Entropic Optimal Transport on GPU</a></h3>
-      <p class="authors"><strong>Felix X.-F. Ye</strong>, Xingjie Li, An Yu, Ming-Ching Chang, Linsong Chu, and Davis Wertheimer</p>
+      <p class="authors"><strong>Felix X.-F. Ye</strong><sup>*</sup>, Xingjie Li, An Yu, Ming-Ching Chang, Linsong Chu, and Davis Wertheimer</p>
       <p class="venue">Forty-third International Conference on Machine Learning (ICML 2026) · <a href="https://github.com/ot-triton-lab/flash-sinkhorn">Code</a></p>
     </article>
 
@@ -111,7 +111,7 @@ description: Research in scientific computing, machine learning, dynamical syste
         <span>Submitted</span>
       </div>
       <h3><a href="https://icml.cc/virtual/2026/75265">DropKV: Decoupling Residual-Output Perturbation for Near-Optimal KV-Cache Eviction</a></h3>
-      <p class="authors">Aozhong Zhang, Selcuk Gurses, Yanxia Deng, Naigang Wang, Chi-Chun Liu, Davis Wertheimer, Derrick Liu, Xin Li, Zi Yang, <strong>Felix X.-F. Ye</strong>, and Penghang Yin</p>
+      <p class="authors">Aozhong Zhang, Selcuk Gurses, Yanxia Deng, Naigang Wang, Chi-Chun Liu, Davis Wertheimer, Derrick Liu, Xin Li, Zi Yang, <strong>Felix X.-F. Ye</strong><sup>*</sup>, and Penghang Yin<sup>*</sup></p>
     </article>
 
     <article class="publication-card">
@@ -119,7 +119,7 @@ description: Research in scientific computing, machine learning, dynamical syste
         <span class="pub-year">2025</span>
       </div>
       <h3><a href="https://arxiv.org/abs/2407.02015">Robust First- and Second-Order Differentiation for Regularized Optimal Transport</a></h3>
-      <p class="authors">Xingjie Li, Fei Lu, Molei Tao, and <strong>Felix X.-F. Ye</strong></p>
+      <p class="authors">Xingjie Li, Fei Lu, Molei Tao, and <strong>Felix X.-F. Ye</strong><sup>*</sup></p>
       <p class="venue"><em>SIAM Journal on Scientific Computing</em>, 47(3), C630–C654</p>
     </article>
 
@@ -128,10 +128,11 @@ description: Research in scientific computing, machine learning, dynamical syste
         <span class="pub-year">2024</span>
       </div>
       <h3><a href="https://arxiv.org/abs/2104.02120">Nonlinear Model Reduction for Slow-Fast Stochastic Systems Near Unknown Invariant Manifolds</a></h3>
-      <p class="authors"><strong>Felix X.-F. Ye</strong>, Sichen Yang, and Mauro Maggioni</p>
+      <p class="authors"><strong>Felix X.-F. Ye</strong><sup>*</sup>, Sichen Yang, and Mauro Maggioni</p>
       <p class="venue"><em>Journal of Nonlinear Science</em>, 34, Article 22</p>
     </article>
   </div>
+  <p class="section-note"><sup>*</sup> Corresponding author.</p>
 </section>
 
 <section class="page-section" id="publications">
