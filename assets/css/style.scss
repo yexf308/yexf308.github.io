@@ -233,15 +233,6 @@ footer p {
   min-width: 0;
 }
 
-.hero {
-  background: linear-gradient(145deg, #ffffff 0%, #f9fcfd 62%, #eef6f7 100%);
-  border: 1px solid var(--line);
-  border-radius: 24px;
-  box-shadow: var(--shadow);
-  padding: clamp(30px, 5vw, 54px);
-}
-
-.eyebrow,
 .section-kicker {
   color: var(--accent);
   font-size: 11px;
@@ -251,88 +242,32 @@ footer p {
   text-transform: uppercase;
 }
 
-.hero h1 {
-  font-size: clamp(34px, 5.4vw, 55px);
-  line-height: 1.05;
-  margin-bottom: 22px;
-  max-width: 700px;
-}
-
-.hero-lead {
-  color: #43526a;
-  font-size: 17px;
-  line-height: 1.72;
-  margin-bottom: 26px;
+.intro {
   max-width: 710px;
+  padding: 8px 0 2px;
 }
 
-.hero-actions {
+.intro h1 {
+  font-size: 34px;
+  line-height: 1.2;
+  margin-bottom: 18px;
+}
+
+.intro > p {
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+.intro-links {
   display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  margin-bottom: 36px;
-}
-
-.button {
   align-items: center;
-  background: var(--paper);
-  border: 1px solid var(--line);
-  border-radius: 10px;
-  color: var(--ink);
-  display: inline-flex;
+  gap: 9px;
   font-size: 13px;
+  margin-bottom: 0;
+}
+
+.intro-links a {
   font-weight: 700;
-  justify-content: center;
-  min-height: 42px;
-  padding: 9px 15px;
-}
-
-.button:hover,
-.button:focus {
-  border-color: var(--accent);
-  color: var(--accent-dark);
-  text-decoration: none;
-  transform: translateY(-1px);
-}
-
-.button-primary {
-  background: var(--accent);
-  border-color: var(--accent);
-  color: #fff;
-}
-
-.button-primary:hover,
-.button-primary:focus {
-  background: var(--accent-dark);
-  color: #fff;
-}
-
-.hero-facts {
-  border-top: 1px solid var(--line);
-  display: grid;
-  gap: 18px;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  padding-top: 22px;
-}
-
-.hero-facts div {
-  min-width: 0;
-}
-
-.hero-facts span,
-.hero-facts strong {
-  display: block;
-}
-
-.hero-facts span {
-  color: var(--muted);
-  font-size: 11px;
-  margin-bottom: 3px;
-}
-
-.hero-facts strong {
-  font-size: 14px;
-  line-height: 1.35;
 }
 
 .page-section {
@@ -754,28 +689,8 @@ footer p {
     margin-bottom: 16px;
   }
 
-  .hero {
-    border-radius: 18px;
-    padding: 27px 22px;
-  }
-
-  .hero h1 {
-    font-size: 34px;
-  }
-
-  .hero-lead {
-    font-size: 15px;
-  }
-
-  .hero-actions,
-  .hero-facts {
-    display: grid;
-    grid-template-columns: 1fr;
-  }
-
-  .hero-facts div + div {
-    border-top: 1px solid var(--soft-line);
-    padding-top: 12px;
+  .intro {
+    padding-top: 2px;
   }
 
   .page-section {
@@ -821,13 +736,11 @@ footer p {
   }
 
   .sidebar,
-  .hero-actions,
   .site-nav,
   .profile-links {
     display: none;
   }
 
-  .hero,
   .research-card,
   .funding-card,
   .publication-card,

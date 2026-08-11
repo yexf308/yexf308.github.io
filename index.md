@@ -4,28 +4,10 @@ title: Scientific Computing and Machine Learning
 description: Research in scientific computing, machine learning, dynamical systems, optimal transport, and state space models.
 ---
 
-<div class="hero">
-  <p class="eyebrow">Scientific computing · machine learning · dynamical systems</p>
-  <h1>Mathematical structure for scientific models and modern AI.</h1>
-  <p class="hero-lead">My research lies at the intersection of scientific computing and machine learning, with mathematical structure as the unifying theme. I use machine learning to discover and preserve structure in stochastic scientific models—and ideas from scientific computing, probability, and dynamical systems to make modern AI more scalable and reliable.</p>
-  <div class="hero-actions" role="group" aria-label="Profile links">
-    <a class="button button-primary" href="#research">Explore my research</a>
-    <a class="button" href="{{ site.scholar_url }}">Google Scholar</a>
-  </div>
-  <div class="hero-facts" role="group" aria-label="Research highlights">
-    <div>
-      <span>ICML 2026</span>
-      <strong>Oral · Top 0.7%</strong>
-    </div>
-    <div>
-      <span>Research support</span>
-      <strong>4 PI-led awards</strong>
-    </div>
-    <div>
-      <span>Based at</span>
-      <strong>UAlbany · SUNY</strong>
-    </div>
-  </div>
+<div class="intro">
+  <h1>About</h1>
+  <p>My research lies at the intersection of scientific computing and machine learning, with mathematical structure as the unifying theme. I use machine learning to discover and preserve structure in stochastic scientific models, and ideas from scientific computing, probability, and dynamical systems to make modern AI more scalable and reliable.</p>
+  <p class="intro-links"><a href="#research">Research</a><span aria-hidden="true">·</span><a href="{{ site.scholar_url }}">Google Scholar</a></p>
 </div>
 
 <section class="page-section" id="research">
@@ -279,8 +261,8 @@ description: Research in scientific computing, machine learning, dynamical syste
 
     <article class="submission-card">
       <span class="status status-submitted">Submitted</span>
-      <h3>DropKV: Decoupling Residual-Output Perturbation for Near-Optimal KV-Cache Eviction</h3>
-      <p>Aoyu Zhang, Selcuk Gurses, Yiming Deng, Nuo Wang, Chia-Chih Liu, Davis Wertheimer, Dakuo Liu, Xingjie Li, Zheng Yang, <strong>Felix X.-F. Ye</strong>, and Penghang Yin</p>
+      <h3><a href="https://icml.cc/virtual/2026/75265">DropKV: Decoupling Residual-Output Perturbation for Near-Optimal KV-Cache Eviction</a></h3>
+      <p>Aozhong Zhang, Selcuk Gurses, Yanxia Deng, Naigang Wang, Chi-Chun Liu, Davis Wertheimer, Derrick Liu, Xin Li, Zi Yang, <strong>Felix X.-F. Ye</strong>, and Penghang Yin</p>
     </article>
 
     <article class="submission-card">
