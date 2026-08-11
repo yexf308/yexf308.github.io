@@ -12,65 +12,34 @@ description: Research in scientific computing, machine learning, dynamical syste
 
 <section class="page-section" id="research">
   <div class="section-heading">
-    <p class="section-kicker">Research</p>
     <h2>Research areas</h2>
-    <p>Three core thrusts connect mathematical foundations, scalable algorithms, and scientific applications. An emerging collaborative direction in multimodal AI broadens that program toward audio-visual reasoning and efficient multimodal systems.</p>
   </div>
 
-  <div class="research-grid">
-    <article class="research-card">
-      <span class="card-number">01</span>
+  <div class="research-list">
+    <article>
       <h3>Data-driven nonlinear model reduction</h3>
       <p>Learning low-dimensional dynamics from high-dimensional, multiscale stochastic systems while preserving the geometry and structure that make long-time prediction trustworthy.</p>
-      <ul class="tag-list" aria-label="Topics">
-        <li>slow–fast systems</li>
-        <li>invariant manifolds</li>
-        <li>learned integrators</li>
-        <li>geometric autoencoders</li>
-      </ul>
     </article>
 
-    <article class="research-card">
-      <span class="card-number">02</span>
+    <article>
       <h3>Optimal transport at accelerator scale</h3>
       <p>Connecting entropic optimal transport with attention to develop analytic sensitivity methods and IO-aware GPU kernels for large-scale Sinkhorn computation.</p>
-      <ul class="tag-list" aria-label="Topics">
-        <li>entropic OT</li>
-        <li>analytic Hessians</li>
-        <li>Triton kernels</li>
-        <li>FlashSinkhorn</li>
-      </ul>
     </article>
 
-    <article class="research-card">
-      <span class="card-number">03</span>
+    <article>
       <h3>Long-context inference and state space models</h3>
       <p>Building probabilistic and dynamical foundations for memory, stability, discretization, and quantization in selective state space models and long-context inference.</p>
-      <ul class="tag-list" aria-label="Topics">
-        <li>memory decay</li>
-        <li>Lyapunov spectra</li>
-        <li>Volterra dynamics</li>
-        <li>KV-cache efficiency</li>
-      </ul>
     </article>
 
-    <article class="research-card research-card-emerging">
-      <span class="card-number">04</span>
+    <article>
       <h3>Multimodal AI</h3>
       <p>Collaborative work on fine-grained audio-visual reasoning, video moment retrieval, efficient token selection, and multimodal generative modeling.</p>
-      <ul class="tag-list" aria-label="Topics">
-        <li>audio-visual reasoning</li>
-        <li>video retrieval</li>
-        <li>token pruning</li>
-        <li>multimodal diffusion</li>
-      </ul>
     </article>
   </div>
 </section>
 
 <section class="page-section" id="funding">
   <div class="section-heading">
-    <p class="section-kicker">Support</p>
     <h2>Current &amp; awarded support</h2>
     <p>Awarded support for research in nonlinear model reduction, optimal transport, and state space models.</p>
   </div>
@@ -122,7 +91,6 @@ description: Research in scientific computing, machine learning, dynamical syste
 
 <section class="page-section" id="publications">
   <div class="section-heading">
-    <p class="section-kicker">Scholarship</p>
     <h2>Selected recent publications</h2>
     <p>Recent work spanning efficient optimal transport, multimodal AI, and scientific machine learning. See <a href="{{ site.scholar_url }}">Google Scholar</a> for the complete record.</p>
   </div>
@@ -236,7 +204,6 @@ description: Research in scientific computing, machine learning, dynamical syste
 
 <section class="page-section" id="preprints">
   <div class="section-heading">
-    <p class="section-kicker">In review</p>
     <h2>Preprints &amp; submitted work</h2>
   </div>
 
@@ -281,7 +248,6 @@ description: Research in scientific computing, machine learning, dynamical syste
 
 <section class="page-section" id="software">
   <div class="section-heading">
-    <p class="section-kicker">Open source</p>
     <h2>Research software</h2>
   </div>
   <div class="software-links">
@@ -290,9 +256,3 @@ description: Research in scientific computing, machine learning, dynamical syste
     <a href="https://github.com/yexf308/ATLAS"><strong>ATLAS</strong><span>Nonlinear reduction of stochastic dynamical systems</span></a>
   </div>
 </section>
-
-<aside class="closing-note">
-  <h2>About</h2>
-  <p>I am an Assistant Professor in the Department of Mathematics and Statistics at the University at Albany, SUNY. Previously, I was a postdoctoral fellow at Johns Hopkins University. I received my PhD in Applied Mathematics from the University of Washington, where I was advised by Hong Qian.</p>
-  <p><a href="mailto:{{ site.email }}">Email me</a> about research, collaboration, or student opportunities.</p>
-</aside>
