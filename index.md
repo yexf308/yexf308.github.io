@@ -98,7 +98,7 @@ description: Research in scientific computing, machine learning, dynamical syste
     <article class="publication-card">
       <div class="card-meta">
         <span class="pub-year">2026</span>
-        <span>ICML Oral · Top 0.7%</span>
+        <span class="publication-highlight">ICML Oral · Top 0.7%</span>
       </div>
       <h3><a href="https://arxiv.org/abs/2602.03067">FlashSinkhorn: IO-Aware Entropic Optimal Transport on GPU</a></h3>
       <p class="authors"><strong>Felix X.-F. Ye</strong><sup>*</sup>, Xingjie Li, An Yu, Ming-Ching Chang, Linsong Chu, and Davis Wertheimer</p>
