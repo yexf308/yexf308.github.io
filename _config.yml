@@ -1,6 +1,15 @@
-title: Felix Ye
+title: Felix X.-F. Ye
+url: https://yexf308.github.io
+baseurl: ""
 logo: /assets/img/logo.jpg
-description: This photo was taken at North Cascades National Park
+description: Scientific computing · machine learning · dynamical systems
+role: Assistant Professor
+department: Department of Mathematics and Statistics
+institution: University at Albany, SUNY
+office: Hudson 127
+email: xye2@albany.edu
+scholar_url: https://scholar.google.com/citations?user=XOUnkpUAAAAJ&hl=en
+github_url: https://github.com/yexf308
 show_downloads: false
 google_analytics: G-HWGZD252DK
 theme: jekyll-theme-minimal
