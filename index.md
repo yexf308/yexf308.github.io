@@ -144,6 +144,10 @@ description: Research in scientific computing, machine learning, dynamical syste
   <ol class="compact-publications">
     <li>
       <span class="pub-year">2026</span>
+      <p><a href="https://arxiv.org/abs/2603.26780"><strong>RatSeizure: A Benchmark and Saliency-Context Transformer for Rat Seizure Localization</strong></a><br><span>Ting Yu Tsai, An Yu, Linda Lee, <strong>Felix X.-F. Ye</strong>, Daniel S. Shin, Tsang-Jiun Kao, Xingjie Li, and Ming-Ching Chang · MICCAI 2026, accepted.</span></p>
+    </li>
+    <li>
+      <span class="pub-year">2026</span>
       <p><a href="https://arxiv.org/abs/2511.14143"><strong>SMART: Shot-Aware Multimodal Video Moment Retrieval with Audio-Enhanced MLLM</strong></a><br><span>An Yu, Weiyu Lu, Jiazhi Li, Zhaorun Zhang, Yifan Shen, <strong>Felix X.-F. Ye</strong>, and Ming-Ching Chang · <em>IEEE Transactions on Multimedia</em>, accepted.</span></p>
     </li>
     <li>
@@ -169,10 +173,6 @@ description: Research in scientific computing, machine learning, dynamical syste
     <li>
       <span class="pub-year">2026</span>
       <p><a href="https://arxiv.org/abs/2603.24680"><strong>ReDiPrune: Relevance-Diversity Pre-Projection Token Pruning for Efficient Multimodal LLMs</strong></a><br><span>An Yu, Ting Yu Tsai, Zhaorun Zhang, Weiyu Lu, <strong>Felix X.-F. Ye</strong>, and Ming-Ching Chang · Submitted.</span></p>
-    </li>
-    <li>
-      <span class="pub-year">2026</span>
-      <p><a href="https://arxiv.org/abs/2603.26780"><strong>RatSeizure: A Benchmark and Saliency-Context Transformer for Rat Seizure Localization</strong></a><br><span>Ting Yu Tsai, An Yu, Linda Lee, <strong>Felix X.-F. Ye</strong>, Daniel S. Shin, Tsang-Jiun Kao, Xingjie Li, and Ming-Ching Chang · Submitted.</span></p>
     </li>
     <li>
       <span class="pub-year">2026</span>
