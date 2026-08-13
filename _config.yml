@@ -13,3 +13,12 @@ github_url: https://github.com/yexf308
 show_downloads: false
 google_analytics: G-HWGZD252DK
 theme: jekyll-theme-minimal
+exclude:
+  - README.md
+  - LICENSE
+  - docs/
+  - script/
+  - jekyll-theme-minimal.gemspec
+  - Gemfile
+  - Gemfile.lock
+  - vendor/

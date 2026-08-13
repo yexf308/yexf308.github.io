@@ -50,7 +50,7 @@ description: Research in scientific computing, machine learning, dynamical syste
         <span class="status status-awarded">Awarded</span>
         <span>NSF CDS&amp;E-MSS · Award #2603785</span>
       </div>
-      <h3><a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2603785">Data-Driven Nonlinear Model Reduction for High-dimensional Multi-scale Stochastic Dynamical Systems</a></h3>
+      <h3><a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2603785">CDS&amp;E: Data-Driven Nonlinear Model Reduction for High-dimensional Multi-scale Stochastic Dynamical Systems</a></h3>
       <p class="funding-details"><strong>$200,000</strong> · September 2026–August 2029</p>
       <p>PI: Felix X.-F. Ye · Co-PI: Barbara Giunti</p>
     </article>
@@ -58,11 +58,11 @@ description: Research in scientific computing, machine learning, dynamical syste
     <article class="funding-card">
       <div class="card-meta">
         <span class="status status-active">Active</span>
-        <span>IBM Center for Emerging Artificial Intelligence Systems</span>
+        <span>UAlbany–IBM Center for Emerging Artificial Intelligence Systems (CEAIS)</span>
       </div>
       <h3>BayesianMamba: Probabilistic Perspective of Generalization of State Space Models</h3>
       <p class="funding-details"><strong>$170,265 total</strong> · January 2025–December 2026</p>
-      <p>Single PI · Includes an approved extension through December 31, 2026</p>
+      <p>UAlbany PI: Felix X.-F. Ye · IBM co-PI: Davis Wertheimer · Includes an approved extension through December 31, 2026</p>
     </article>
 
     <article class="funding-card">
@@ -138,7 +138,7 @@ description: Research in scientific computing, machine learning, dynamical syste
 <section class="page-section" id="publications">
   <div class="section-heading">
     <h2>Publications</h2>
-    <p>Listed in reverse chronological order. See <a href="{{ site.scholar_url }}">Google Scholar</a> for citation records.</p>
+    <p>Grouped by year. See <a href="{{ site.scholar_url }}">Google Scholar</a> for citation records.</p>
   </div>
 
   <ol class="compact-publications">
@@ -204,7 +204,7 @@ description: Research in scientific computing, machine learning, dynamical syste
     </li>
     <li>
       <span class="pub-year">2021</span>
-      <p><strong>Quantifying Information Accumulation Encoded in the Dynamics of Biochemical Signaling</strong><br><span>Ying Tang, Adewunmi Adelaja, Felix X.-F. Ye, Eric Deeds, Roy Wollman, and Alexander Hoffmann · <em>Nature Communications</em>, 12(1), 1–10.</span></p>
+      <p><strong>Quantifying Information Accumulation Encoded in the Dynamics of Biochemical Signaling</strong><br><span>Ying Tang, Adewunmi Adelaja, Felix X.-F. Ye, Eric Deeds, Roy Wollman, and Alexander Hoffmann · <em>Nature Communications</em>, 12, Article 1272.</span></p>
     </li>
     <li>
       <span class="pub-year">2020</span>
