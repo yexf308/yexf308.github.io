@@ -144,6 +144,10 @@ description: Research in scientific computing, machine learning, dynamical syste
   <ol class="compact-publications">
     <li>
       <span class="pub-year">2026</span>
+      <p><a href="https://arxiv.org/abs/2610.02395"><strong>FlashSinkhorn 2: Block-Sparse Entropic Optimal Transport</strong></a><br><span><strong>Felix X.-F. Ye</strong>, Yu Chin Fabian Lim, Naigang Wang, and Davis Wertheimer · arXiv:2610.02395.</span></p>
+    </li>
+    <li>
+      <span class="pub-year">2026</span>
       <p><a href="https://arxiv.org/abs/2603.26780"><strong>RatSeizure: A Benchmark and Saliency-Context Transformer for Rat Seizure Localization</strong></a><br><span>Ting Yu Tsai, An Yu, Lucy Lee, <strong>Felix X.-F. Ye</strong>, Damian S. Shin, Tzu-Jen Kao, Xin Li, and Ming-Ching Chang · MICCAI 2026, accepted.</span></p>
     </li>
     <li>
