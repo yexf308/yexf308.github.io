@@ -143,6 +143,10 @@ description: Research in scientific computing, machine learning, dynamical syste
 
   <ol class="compact-publications">
     <li>
+      <span class="pub-year">2027</span>
+      <p><a href="https://arxiv.org/abs/2603.24680"><strong>ReDiPrune: Relevance-Diversity Pre-Projection Token Pruning for Efficient Multimodal LLMs</strong></a><br><span>An Yu, Ting Yu Tsai, Zhenfei Zhang, Weiheng Lu, <strong>Felix X.-F. Ye</strong>, and Ming-Ching Chang · WACV 2027, accepted.</span></p>
+    </li>
+    <li>
       <span class="pub-year">2026</span>
       <p><a href="https://arxiv.org/abs/2610.02395"><strong>FlashSinkhorn 2: Block-Sparse Entropic Optimal Transport</strong></a><br><span><strong>Felix X.-F. Ye</strong>, Yu Chin Fabian Lim, Naigang Wang, and Davis Wertheimer · arXiv:2610.02395.</span></p>
     </li>
@@ -173,10 +177,6 @@ description: Research in scientific computing, machine learning, dynamical syste
     <li>
       <span class="pub-year">2026</span>
       <p><a href="https://arxiv.org/abs/2604.16282"><strong>Geometric Regularization of Autoencoders via Observed Stochastic Dynamics</strong></a><br><span>Sean Hill and <strong>Felix X.-F. Ye</strong> · Submitted.</span></p>
-    </li>
-    <li>
-      <span class="pub-year">2026</span>
-      <p><a href="https://arxiv.org/abs/2603.24680"><strong>ReDiPrune: Relevance-Diversity Pre-Projection Token Pruning for Efficient Multimodal LLMs</strong></a><br><span>An Yu, Ting Yu Tsai, Zhenfei Zhang, Weiheng Lu, <strong>Felix X.-F. Ye</strong>, and Ming-Ching Chang · Submitted.</span></p>
     </li>
     <li>
       <span class="pub-year">2026</span>
