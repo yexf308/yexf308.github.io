@@ -110,7 +110,7 @@ description: Research in scientific computing, machine learning, dynamical syste
         <span class="pub-year">2026</span>
         <span>NeurIPS Poster</span>
       </div>
-      <h3><a href="https://icml.cc/virtual/2026/75265">DropKV: Decoupling Residual-Output Perturbation for Near-Optimal KV-Cache Eviction</a></h3>
+      <h3><a href="https://arxiv.org/abs/2610.22130">DropKV: Decoupling Residual-Output Perturbation for Near-Optimal KV-Cache Eviction</a></h3>
       <p class="authors">Aozhong Zhang, Selcuk Gurses, Yanxia Deng, Naigang Wang, Chi-Chun Liu, Davis Wertheimer, Derrick Liu, Xin Li, Zi Yang, <strong>Felix X.-F. Ye</strong><sup>*</sup>, and Penghang Yin<sup>*</sup></p>
       <p class="venue">Advances in Neural Information Processing Systems (NeurIPS 2026), accepted.</p>
     </article>
@@ -165,7 +165,7 @@ description: Research in scientific computing, machine learning, dynamical syste
     </li>
     <li>
       <span class="pub-year">2026</span>
-      <p><a href="https://icml.cc/virtual/2026/75265"><strong>DropKV: Decoupling Residual-Output Perturbation for Near-Optimal KV-Cache Eviction</strong></a><br><span>Aozhong Zhang, Selcuk Gurses, Yanxia Deng, Naigang Wang, Chi-Chun Liu, Davis Wertheimer, Derrick Liu, Xin Li, Zi Yang, <strong>Felix X.-F. Ye</strong>, and Penghang Yin · NeurIPS 2026, Poster, accepted.</span></p>
+      <p><a href="https://arxiv.org/abs/2610.22130"><strong>DropKV: Decoupling Residual-Output Perturbation for Near-Optimal KV-Cache Eviction</strong></a><br><span>Aozhong Zhang, Selcuk Gurses, Yanxia Deng, Naigang Wang, Chi-Chun Liu, Davis Wertheimer, Derrick Liu, Xin Li, Zi Yang, <strong>Felix X.-F. Ye</strong>, and Penghang Yin · NeurIPS 2026, Poster, accepted.</span></p>
     </li>
     <li>
       <span class="pub-year">2026</span>
